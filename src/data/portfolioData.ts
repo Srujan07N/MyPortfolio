@@ -63,7 +63,7 @@ export const PROFILE_INFO = {
   subTitle: "MCA Graduate · Modern Web Architecture · MERN Stack",
   greeting: "I build scalable, modern web applications with clean architecture and thoughtful UX.",
   bio: "Full Stack Developer and MCA graduate with deep focus on the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about architecting scalable REST APIs, implementing robust authentication mechanisms, creating responsive user interfaces, and ensuring high data integrity. Committed to clean code, performance, and building digital tools that solve practical problems.",
-  email: "srujan.nagarajb@gmail.com",
+  email: "srujann2203@gmail.com",
   github: "https://github.com/Srujan07N",
   linkedin: "https://www.linkedin.com/in/srujan-n-360559285/?isSelfProfile=true",
   status: "Available for work",

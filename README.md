@@ -79,7 +79,7 @@ npm run preview
 ## 👤 Author
 
 - **Srujan N**
-- Email: [srujan.nagarajb@gmail.com](mailto:srujan.nagarajb@gmail.com)
+- Email: [srujann2203@gmail.com](mailto:srujann2203@gmail.com)
 - GitHub: [https://github.com/srujannagaraj](https://github.com/srujannagaraj)
 - LinkedIn: [https://linkedin.com/in/srujan-n](https://linkedin.com/in/srujan-n)
 - Degree: Master of Computer Applications (MCA), Shree Devi Institute of Technology (2024 — 2026)
